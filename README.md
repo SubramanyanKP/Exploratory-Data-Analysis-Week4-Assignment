@@ -1,9 +1,10 @@
-# Coursera-Exploratory-Data-Analysis-Week-4
+# Coursera-Exploratory Data Analysis-Week4
 course project from week 4
 This was the assigment 
 url for data used 
 https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip
-Questions
+
+# Questions :
 
 You must address the following questions and tasks in your exploratory analysis. For each question/task you will need to make a single plot. Unless specified, you can use any plotting system in R to make your plot.
 
