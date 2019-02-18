@@ -2,7 +2,7 @@
 
 ## Course project for week 4 peer graded assessment.
 
-Please refer the URL for the data being used for this assessment :
+Please refer the following URL for the data being used for this assessment :
 
 [Data for Peer Assessment ](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
 
