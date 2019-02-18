@@ -13,3 +13,9 @@ For each question
 
 1. Does the plot appear to address the question being asked?
 2. Is the submitted R code appropriate for construction of the submitted plot?
+
+## Data
+
+The data for this assignment are available from the course web site as a single zip file:
+
+* [Data for Peer Assessment](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip).[29Mb]
