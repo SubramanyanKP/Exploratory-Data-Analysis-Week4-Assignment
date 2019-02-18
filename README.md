@@ -29,7 +29,7 @@ You must address the following questions and tasks in your exploratory analysis.
 a) Please refer to "plot1.R"  for Rcode that has been coded to arrive at "plot1.png" which is the corresponding plot  illustrating
 the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 
-  Inference : Looking at the plot1.png  we get to infer that total emissions from PM2.5 have decreased in the US from 1999 to 2008 by 3.868760910^{6} tons.
+## Inference : Looking at the plot1.png  we get to infer that total emissions from PM2.5 have decreased in the US from 1999 to 2008 by 3.868760910^{6} tons.
 
 b) Please refer to "plot2.R"  for Rcode that has been coded to arrive at "plot2.png" which is the corresponding plot illustrating
 whether total emissions from PM2.5 have decreased in the Baltimore City, Maryland (𝚏𝚒𝚙𝚜 == "𝟸𝟺𝟻𝟷𝟶") from 1999 to 2008.
