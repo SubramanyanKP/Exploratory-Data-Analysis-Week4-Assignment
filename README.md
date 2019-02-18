@@ -6,7 +6,7 @@ Please refer the following URL for the data being used for this assessment :
 
 [Data for Peer Assessment ](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
 
-# Questions :
+## Questions :
 
 You must address the following questions and tasks in your exploratory analysis. For each question/task you will need to make a single plot. Unless specified, you can use any plotting system in R to make your plot.
 
@@ -17,4 +17,12 @@ You must address the following questions and tasks in your exploratory analysis.
 5) How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
 6) Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (𝚏𝚒𝚙𝚜 == "𝟶𝟼𝟶𝟹𝟽"). Which city has seen greater changes over time in motor vehicle emissions?
 
-Each plot has a corresponding R script.
+## Each plot has a corresponding R script.
+
+a) Please refer to "plot1.R"  for Rcode that has been coded to arrive at "plot1.png" which is the corresponding plot which illustrates
+the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
+
+b) Please refer to "plot2.R"  for Rcode that has been coded to arrive at "plot2.png" which is the corresponding plot which illustrates
+whether total emissions from PM2.5 have decreased in the Baltimore City, Maryland (𝚏𝚒𝚙𝚜 == "𝟸𝟺𝟻𝟷𝟶") from 1999 to 2008.
+
+c) 
