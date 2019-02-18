@@ -24,7 +24,7 @@ You must address the following questions and tasks in your exploratory analysis.
 
 ## Solution :
 
-## Each of the questions as above have been solved with a seperate plot and a corresponding R script as mentioned below:
+## Each of the questions enlisted above have been solved with a seperate plot and a corresponding R script as mentioned below:
 
 a) Please refer to "plot1.R"  for Rcode that has been coded to arrive at "plot1.png" which is the corresponding plot  illustrating
 the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
@@ -47,3 +47,13 @@ city that has seen greater changes over time in motor vehicle emissions when com
 ## Inference :
 
 a) Looking at the plot1.png  we get to infer that total emissions from PM2.5 have decreased in the US from 1999 to 2008 by 3.868760910^{6} tons.
+
+b) Total emissions from PM2.5 in Balitmore have decreased from 1999 to 2008 by 1411.8984892 tons, as demonstrated in the plot2.png.
+
+c) As per plot3.png, all source types appear to have decreased from 1999 to 2008 in Baltimore, with the exception of of the “point” type source.
+
+d) On Observing the results as per plot4.png, total coal combustion emissions in the US have decreased by 2.286942810^{5} tons from 1999 to 2008.
+
+e) Emissions from motor vehicles in Baltimore have decreased by 258.5445426 tons from 1999 to 2008.The same can be observed upon observation of the plot5.png.
+
+f) The greatest magnitude of change in emissions from motor vehicle occurred in Baltimore City,  which experienced a decrease of 258.5445426 tons, while Los Angeles experienced an increase of 163.43998 tons due to emissions from motor vehicleof  during the 1999-2008 period.
