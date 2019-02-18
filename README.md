@@ -1,7 +1,8 @@
 # Exploratory Data Analysis - Assignment - Week4
-course project from week 4
-This was the assigment 
-url for data used 
+
+## Course project for week 4 peer graded assessment.
+
+Please refer the following URL for the data being used for this assessment :
 https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip
 
 # Questions :
