@@ -29,6 +29,8 @@ You must address the following questions and tasks in your exploratory analysis.
 a) Please refer to "plot1.R"  for Rcode that has been coded to arrive at "plot1.png" which is the corresponding plot  illustrating
 the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 
+  Inference : Looking at the plot1.png  we get to infer that total emissions from PM2.5 have decreased in the US from 1999 to 2008 by 3.868760910^{6} tons.
+
 b) Please refer to "plot2.R"  for Rcode that has been coded to arrive at "plot2.png" which is the corresponding plot illustrating
 whether total emissions from PM2.5 have decreased in the Baltimore City, Maryland (𝚏𝚒𝚙𝚜 == "𝟸𝟺𝟻𝟷𝟶") from 1999 to 2008.
 
@@ -43,3 +45,5 @@ how emissions from motor vehicle sources  have changed from 1999–2008 in Balti
 
 f) Please refer to "plot6.R"  for Rcode that has been coded to arrive at "plot6.png" which is the corresponding plot illustrating the
 city that has seen greater changes over time in motor vehicle emissions when comparing emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (𝚏𝚒𝚙𝚜 == "𝟶𝟼𝟶𝟹𝟽").
+
+
