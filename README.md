@@ -24,7 +24,7 @@ You must address the following questions and tasks in your exploratory analysis.
 
 ## Solution :
 
-## Each of the questions enlisted above have been solved with a seperate plot and a corresponding R script as mentioned below:
+### Each of the questions enlisted above have been solved with a seperate plot and a corresponding R script as mentioned below:
 
 a) Please refer to "plot1.R"  for Rcode that has been coded to arrive at "plot1.png" which is the corresponding plot  illustrating
 the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
