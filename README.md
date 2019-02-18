@@ -1,4 +1,4 @@
-# Coursera-Exploratory Data Analysis-Week4
+# Exploratory Data Analysis - Assignment - Week4
 course project from week 4
 This was the assigment 
 url for data used 
