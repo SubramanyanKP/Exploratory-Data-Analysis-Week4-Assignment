@@ -48,7 +48,7 @@ city that has seen greater changes over time in motor vehicle emissions when com
 
 a ) Looking at the plot1.png  we get to infer that total emissions from PM2.5 have decreased in the US from 1999 to 2008 by 3.868761^{6} tons.
 
-b ) Total emissions from PM2.5 in Balitmore have decreased from 1999 to 2008 by 1411.8984892 tons, as demonstrated in the plot2.png.
+b ) Total emissions from PM2.5 in Balitmore have decreased from 1999 to 2008 by 1411.898 tons, as demonstrated in the plot2.png.
 
 c ) As per plot3.png, all source types appear to have decreased from 1999 to 2008 in Baltimore, with the exception of of the “point” type source.
 
