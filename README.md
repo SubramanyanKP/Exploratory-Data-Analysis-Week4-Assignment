@@ -56,4 +56,4 @@ d ) On Observing the results as per plot4.png, total coal combustion emissions i
 
 e ) Emissions from motor vehicles in Baltimore have decreased by 258.5445 tons from 1999 to 2008.The same can be inferred on observation of the plot5.png.
 
-f ) The greatest magnitude of change in emissions from motor vehicle occurred in Baltimore City,  which experienced a decrease of 258.5445 tons, while Los Angeles experienced an increase of 163.43998 tons due to emissions from motor vehicleof  during the 1999-2008 period.
+f ) The greatest magnitude of change in emissions from motor vehicle occurred in Baltimore City,  which experienced a decrease of 258.5445 tons, while Los Angeles experienced an increase of 163.44 tons due to emissions from motor vehicleof  during the 1999-2008 period.
