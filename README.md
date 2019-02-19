@@ -54,6 +54,6 @@ c ) As per plot3.png, all source types appear to have decreased from 1999 to 200
 
 d ) On Observing the results as per plot4.png, total coal combustion emissions in the US have decreased by 2.286942810^{5} tons from 1999 to 2008.
 
-e ) Emissions from motor vehicles in Baltimore have decreased by 258.5445426 tons from 1999 to 2008.The same can be observed upon observation of the plot5.png.
+e ) Emissions from motor vehicles in Baltimore have decreased by 258.5445426 tons from 1999 to 2008.The same can be inferred on observation of the plot5.png.
 
 f ) The greatest magnitude of change in emissions from motor vehicle occurred in Baltimore City,  which experienced a decrease of 258.5445426 tons, while Los Angeles experienced an increase of 163.43998 tons due to emissions from motor vehicleof  during the 1999-2008 period.
